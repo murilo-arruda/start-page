@@ -1,2 +1,6 @@
 # start-page
-my start page!
+
+
+working on...
+
+svelte + nes.css
