@@ -30,7 +30,11 @@ requirements: node.js
 instructions:
 
 1 - clone `git clone https://github.com/murilo-arruda/start-page.git`
+
 2 - change directory `cd start-page`
+
 3 - install the dependencies `npm install`
+
 4 - start the dev enviroment `npm run build`
+
 5 - the server will be up on localhost:5000
