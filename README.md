@@ -1,21 +1,26 @@
-# start-page with pixel art style
+# Pixel start-page
 
-hello there! i am creating a custom start page (default browser page) using the nes.css / pixelart style. i want to provide simple and clean start page.
+Dynamic start-page using retro/pixel-art style.
 
-this projects it's note ready yet. Here my plans:
+i'm using Svelte and ness.css to create the UI.
 
-- options menu
-  - dark mode
-  - select which icons will display
-  - edit sections with with your link lists
-  - choose default search engine (google, duckduckgo, bing...)
-  - timestamp selection
-  - multiple time zone
-  - and much more
-- serviceworker to work ofline (or use localstorage for data persistence)
-- some bugs
+'Why svelte?' you may ask. the reason that i'm using svelte is just for learning purposes not technical or perfomance related.
+
+this project isn't ready yet. Here my plans:
+
+- Open to Hacktoberfest
+- Settings Menu
+- Custom zones
+- Pixel icons library
+- Dark Theme
+- Offline support
+- Sync support
+- and expect a lot of bugs
+
 
 ## How to use
+
+This start-page is in development. my plans is to find a easy and free way to users install and use.
 
 if you want to use the early version of this page you can run `npm install` and `npm run build` and this will genarate the site files on `public/build` directory.
 
